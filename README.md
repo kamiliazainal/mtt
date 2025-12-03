@@ -5,6 +5,7 @@
 - SQLite
 - Node.js & NPM (for frontend assets)
 - Docker & Docker Compose (if using Docker installation)
+- Using SBAdmin2 template
 
 ## Database Schema
 
